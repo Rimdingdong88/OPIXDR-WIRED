@@ -1,0 +1,8 @@
+{
+  "owner": "your-github-id",
+  "repo": "your-repo",
+  "branch": "main",
+  "folder": "images/",
+  "collection": "Collection",
+  "modelName": "OPIXDR-Wired"
+}
