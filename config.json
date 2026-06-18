@@ -1,8 +1,8 @@
 {
-  "owner": "your-github-id",
-  "repo": "your-repo",
+  "owner": "Rimdingdong88",
+  "repo": "OPIXDR-WIRED",
   "branch": "main",
-  "folder": "images",
+  "folder": "Images",
   "collection": "Collection",
   "modelName": "OPIXDR-Wired"
 }
